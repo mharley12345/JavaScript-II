@@ -77,15 +77,15 @@ multiplyNums(4, 10, console.log)
 
 
 
-// function contains(arr, str, cb) {
+//  function contains(arr, str, cb) {
 
 // 	  let ret=false
-// 	for(let i=0;i<arr.length;i++) {
-// 		if(str===arr[i])
-// 			ret=true
-// 	}
-// 	cb(ret)
-// }
+//  	for(let i=0;i<arr.length;i++) {
+//  		if(str===arr[i])
+//  			ret=true
+//  	}
+//  	cb(ret)
+//  }
 
 
 
