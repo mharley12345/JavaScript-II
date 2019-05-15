@@ -1,0 +1,11 @@
+{
+    "editor.wordBasedSuggestions": false,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.suggest.filterGraceful": false,
+    "php.suggest.basic": false,
+    "editor.suggest.showIcons": false,
+    "javascript.suggest.completeJSDocs": false,
+    "javascript.suggest.names": false,
+    "javascript.suggest.autoImports": false,
+    "javascript.suggest.paths": false
+}
